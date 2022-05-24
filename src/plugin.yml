@@ -1,0 +1,28 @@
+name: SuperSpawners
+version: 1.0.0
+author: Dylan
+main: Main
+api-version: 1.18
+commands:
+  spawner:
+    description: Displays info about the spawner looked at
+    usage: /<command>
+  setspawner:
+    description: Sets the spawner to given entity type
+    usage: /<command> <entity>
+    permission: superspawner.setspawner
+    Permissions:
+      superspawner.setspawner:
+        description: Gives access to /setspawner
+        default: op
+  superspawners reload:
+    description: Reloads the config
+    usage: /superspawners reload
+    permission: superspawner.reload
+    Permissions:
+      superspawner.reload:
+        description: Gives access to /superspawner reload
+        default: op
+
+
+

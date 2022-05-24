@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperSpawners:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/PluginTesting/plugins</output-path>
+    <root id="archive" name="SuperSpawners.jar">
+      <element id="module-output" name="SuperSpawners" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.18.2-R0.1-20220517.093124-43.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
