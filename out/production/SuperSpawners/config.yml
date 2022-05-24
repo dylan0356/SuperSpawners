@@ -1,3 +1,4 @@
+enabled: true
 reload:
   message:
     - "Reloaded SuperSpawners"

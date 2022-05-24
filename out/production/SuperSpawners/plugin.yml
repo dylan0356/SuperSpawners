@@ -1,7 +1,7 @@
 name: SuperSpawners
 version: 1.0.0
 author: Dylan
-main: Main
+main: me.Rakeo.SuperSpawners.Main
 api-version: 1.18
 commands:
   spawner:
